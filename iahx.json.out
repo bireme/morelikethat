@@ -1,0 +1,851 @@
+{
+   "responseHeader":{
+      "status":0,
+      "QTime":6,
+      "params":{
+         "q":"id:\"mdl-7705837\"",
+         "json.nl":"arrarr",
+         "wt":"json"
+      }
+   },
+   "match":{
+      "numFound":1,
+      "start":0,
+      "maxScore":17.184746,
+      "docs":[
+         {
+            "id":"mdl-7705837",
+            "db":"MEDLINE",
+            "bvs":"regional",
+            "da":"199505",
+            "entry_date":"19950511",
+            "weight":23.0,
+            "afiliacao_autor":[
+               "Steinlein O; Institut für Humangenetik, Universität Heidelberg, Germany."
+            ],
+            "vi":[
+               "95"
+            ],
+            "type":[
+               "article"
+            ],
+            "ti":[
+               "Benign familial neonatal convulsions: confirmation of genetic heterogeneity and further evidence for a second locus on chromosome 8q."
+            ],
+            "au":[
+               "Steinlein O",
+               "Schuster V",
+               "Fischer C",
+               "Häussler M"
+            ],
+            "ip":[
+               "4"
+            ],
+            "pg":[
+               "411-5"
+            ],
+            "cp":[
+               "GERMANY"
+            ],
+            "ta":[
+               "Hum Genet",
+               "Human genetics"
+            ],
+            "la":[
+               "en"
+            ],
+            "pt":[
+               "^d29635",
+               "^d21067"
+            ],
+            "mh":[
+               "^d19110^s22033",
+               "^d32225",
+               "^d13024^s22033",
+               "^d331",
+               "^d2715",
+               "^d19122^s22033",
+               "^d21030",
+               "^d8215",
+               "^d24411",
+               "^d21034",
+               "^d7399",
+               "^d22226",
+               "^d8302",
+               "^d21044",
+               "^d10568",
+               "^d13957"
+            ],
+            "ab":[
+               "The syndrome of benign familial neonatal convulsions (BFNC) is a rare, autosomal dominant form of epilepsy. It is characterized by spontaneous seizures beginning within the first 6 months of life. In the majority of families linkage is to chromosome 20q markers. Based on the linkage results in one large BFNC kindred, genetic heterogeneity and existence of a second locus on chromosome 8 have been suggested. Here we report on a second BFNC family in which linkage to the EBN1 locus on chromosome 20q was excluded, confirming the genetic heterogeneity of this disorder. All affected family members experienced onset of seizures before the age of 2 months. Three BFNC subjects showed subsequent epileptic seizures after 12 months of age, showing that the risk of subsequent epilepsy is not restricted to the chromosome 20q linked BFNC families. A lod score of 0.99 was obtained with the marker D8S274, suggesting linkage to chromosome 8."
+            ],
+            "fo":[
+               "Hum Genet;95(4): 411-5, 1995 Apr. "
+            ],
+            "score":17.184746
+         }
+      ]
+   },
+   "response":{
+      "numFound":13526989,
+      "start":0,
+      "maxScore":74.5573,
+      "docs":[
+         {
+            "id":"mdl-9579893",
+            "db":"MEDLINE",
+            "bvs":"regional",
+            "da":"199700",
+            "entry_date":"19980521",
+            "weight":25.0,
+            "afiliacao_autor":[
+               "Terwindt GM; Department of Neurology, Leiden University Medical Center, The Netherlands."
+            ],
+            "vi":[
+               "38"
+            ],
+            "type":[
+               "article"
+            ],
+            "ti":[
+               "Partial cosegregation of familial hemiplegic migraine and a benign familial infantile epileptic syndrome."
+            ],
+            "au":[
+               "Terwindt GM",
+               "Ophoff RA",
+               "Lindhout D",
+               "Haan J",
+               "Halley DJ",
+               "Sandkuijl LA",
+               "Brouwer OF",
+               "Frants RR",
+               "Ferrari MD"
+            ],
+            "ip":[
+               "8"
+            ],
+            "pg":[
+               "915-21"
+            ],
+            "cp":[
+               "UNITED STATES"
+            ],
+            "ta":[
+               "Epilepsia",
+               "Epilepsia"
+            ],
+            "la":[
+               "en"
+            ],
+            "pt":[
+               "^d29635",
+               "^d21067"
+            ],
+            "mh":[
+               "^d4907^s22033",
+               "^d23905",
+               "^d6579^s22033",
+               "^d9068^s22033",
+               "^d31669",
+               "^d20174",
+               "^d23571^s22033",
+               "^d19121^s22033",
+               "^d19122^s22033",
+               "^d19110^s22033",
+               "^d4907^s22016",
+               "^d8215",
+               "^d24411",
+               "^d6579^s22016",
+               "^d21034",
+               "^d8302",
+               "^d9068^s22016",
+               "^d9147",
+               "^d10568",
+               "^d28320",
+               "^d13024^s22016",
+               "^d13024^s22033"
+            ],
+            "ab":[
+               "PURPOSE: We studied a large Dutch-Canadian family, in which two very rare hereditary paroxysmal neurologic disorders, familial hemiplegic migraine (FHM) and a \"benign familial infantile epileptic syndrome\" concur and partially cosegregate. FHM is a dominantly inherited subtype of migraine with attacks of hemiparesis, linked to chromosome 19p13 in 50% of the families tested. Recently mutations in a brain-specific P/Q-type Ca2+ channel alpha1 subunit gene (CACNL1A4) were identified in families with chromosome 19-linked FHM. The infantile epileptic syndrome resembles to two other dominantly inherited benign epilepsies occurring in the first year of life, benign familial neonatal convulsions (BFNC), assigned to chromosomes 20q13.2 and 8q, and benign infantile familial convulsions (BIFC), as yet unlinked. METHODS: Linkage analysis was performed for the known locations of FHM and BFNC. The question whether the two conditions in this family can be caused by a single gene defect was addressed by additional linkage analysis. RESULTS: We excluded linkage of the infantile convulsions to markers on chromosome 20q13.2, 8q, or 19p13. This indicates the existence of a third locus for benign familial convulsions in the first year of life. Linkage of FHM to these markers was not formally excluded but seems very unlikely. Statistical analysis of whether, in this family, both conditions are caused by a single gene defect was inconclusive. CONCLUSIONS: We describe a \"benign familial infantile epileptic syndrome\" with attacks of FHM at a later age. Further genetic studies in this family may help to unravel the genetic basis of epilepsy or migraine or both."
+            ],
+            "fo":[
+               "Epilepsia;38(8): 915-21, 1997 Aug. "
+            ],
+            "score":74.5573
+         },
+         {
+            "id":"mdl-8734025",
+            "db":"MEDLINE",
+            "bvs":"regional",
+            "da":"199610",
+            "order_sjr":0.1951996,
+            "entry_date":"19961031",
+            "weight":34.195,
+            "afiliacao_autor":[
+               "Lewis TB; Department of Cellular and Structural Biology, University of Texas Health Science Center at San Antonio 78284, USA."
+            ],
+            "vi":[
+               "11"
+            ],
+            "type":[
+               "article"
+            ],
+            "ti":[
+               "Evidence of a third locus for benign familial convulsions."
+            ],
+            "au":[
+               "Lewis TB",
+               "Shevell MI",
+               "Andermann E",
+               "Ryan SG",
+               "Leach RJ"
+            ],
+            "ip":[
+               "3"
+            ],
+            "pg":[
+               "211-4"
+            ],
+            "cp":[
+               "UNITED STATES"
+            ],
+            "ta":[
+               "J Child Neurol",
+               "Journal of child neurology"
+            ],
+            "la":[
+               "en"
+            ],
+            "pt":[
+               "^d21012",
+               "^d29635"
+            ],
+            "mh":[
+               "^d2918^s22033",
+               "^d19110^s22033",
+               "^d13024^s22033",
+               "^d31669",
+               "^d2918^s22032",
+               "^d34293",
+               "^d21030",
+               "^d8215",
+               "^d24411",
+               "^d19180",
+               "^d21034",
+               "^d7399",
+               "^d22226",
+               "^d8302",
+               "^d21044",
+               "^d10568",
+               "^d28320",
+               "^d12413",
+               "^d12496",
+               "^d13024^s22027"
+            ],
+            "ab":[
+               "Two autosomal dominant forms of benign idiopathic epilepsy of early life have been described: benign neonatal familial convulsions and benign infantile familial convulsions. Herein we describe a pedigree with familial convulsions in which the age of onset is intermediate between that seen in these two disorders. Two genes responsible for benign neonatal familial convulsions have been mapped to chromosome 20q and to chromosome 8q. Previously, the chromosome 20q benign neonatal familial convulsions locus had been excluded in this pedigree. Further linkage analysis in our laboratory revealed that the chromosome 8 benign neonatal familial convulsions locus also is not responsible for seizures in this pedigree. These results indicate that there are at least three loci responsible for autosomal dominant benign epilepsies of early life."
+            ],
+            "fo":[
+               "J Child Neurol;11(3): 211-4, 1996 May. "
+            ],
+            "score":68.73762
+         },
+         {
+            "id":"mdl-18628273",
+            "db":"MEDLINE",
+            "bvs":"regional",
+            "da":"200810",
+            "order_sjr":0.3142008,
+            "entry_date":"20081014",
+            "weight":56.314,
+            "afiliacao_autor":[
+               "DeRosse P; Center for Translational Psychiatry, The Feinstein Institute for Medical Research, Manhasset, NY, USA. pderosse@lij.edu"
+            ],
+            "vi":[
+               "34"
+            ],
+            "ur":[
+               "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2632513/?tool=pubmed"
+            ],
+            "type":[
+               "article"
+            ],
+            "ti":[
+               "The genetics of symptom-based phenotypes: toward a molecular classification of schizophrenia."
+            ],
+            "au":[
+               "DeRosse P",
+               "Lencz T",
+               "Burdick KE",
+               "Siris SG",
+               "Kane JM",
+               "Malhotra AK"
+            ],
+            "ip":[
+               "6"
+            ],
+            "pg":[
+               "1047-53"
+            ],
+            "cp":[
+               "United States"
+            ],
+            "ta":[
+               "Schizophr Bull",
+               "Schizophrenia bulletin"
+            ],
+            "la":[
+               "en"
+            ],
+            "pt":[
+               "^d29635",
+               "^d50206",
+               "^d21067"
+            ],
+            "mh":[
+               "^d19122^s22033",
+               "^d19108^s22033",
+               "^d19110^s22033",
+               "^d9611^s22033",
+               "^d51029^s22033",
+               "^d10833",
+               "^d34583^s22033",
+               "^d12054^s22011",
+               "^d12054^s22033",
+               "^d12940^s22011",
+               "^d12940^s22033",
+               "^d12946",
+               "^d485",
+               "^d28621",
+               "^d8215",
+               "^d24411^s22033",
+               "^d33779^s22033",
+               "^d5974",
+               "^d21034",
+               "^d8302",
+               "^d9665^s22033",
+               "^d33876",
+               "^d12006",
+               "^d12054^s22056"
+            ],
+            "ab":[
+               "OBJECTIVE: Genetic linkage studies in schizophrenia (SZ) have primarily focused on the phenotype of disease susceptibility. A limited number of studies, however, have reported suggestive linkage to specific SZ symptom domains including regions on chromosomes 6, 8, and 20. We examined these chromosomal regions for association to positive, negative, and disorganized symptom clusters, using a dense set of single-nucleotide polymorphisms (SNPs). METHODS: We ascertained 178 Caucasian patients with SZ for lifetime severity of clinical symptomatology using a structured diagnostic interview. The cohort was genotyped with the Affymetrix 500K microarray, from which we selected, a priori, 4833 intragenic SNPs located within chromosomal regions previously linked to specific SZ symptom clusters. Parametric tests, corrected for multiple testing, were used to compare the effects of allelic variation within these SNPs to the lifetime severity of the specific symptom domain that had been implicated by prior linkage studies. RESULTS: We were able to extend previous reports of linkage between chromosome 6q and both positive and disorganized symptoms. Lifetime severity of positive symptoms was significantly (P = 2.50 x 10(-5)) associated with a SNP within the origin recognition complex subunit 3-like (ORC3L) gene, a gene implicated in synaptic plasticity. Level of disorganized symptoms was significantly (P < 6.00 x 10(-5)) associated 2 SNPs within the brain-specific angiogenesis inhibitor 3 (BAI3) gene, which is highly expressed in brain during development. CONCLUSIONS: These data point toward specific candidate genes located within previously implicated linkage peaks for clinical symptomatology. Identification of functional variants within these regions and a characterization of the effect of these risk genotypes on the treatment of specific clinical symptoms are needed."
+            ],
+            "fo":[
+               "Schizophr Bull;34(6): 1047-53, 2008 Nov. "
+            ],
+            "score":67.15883
+         },
+         {
+            "id":"mdl-9579905",
+            "db":"MEDLINE",
+            "bvs":"regional",
+            "da":"199700",
+            "entry_date":"19980521",
+            "weight":25.0,
+            "afiliacao_autor":[
+               "Neubauer BA; Department of Neuropediatrics, Christian-Albrechts-Universität, Kiel, Germany."
+            ],
+            "vi":[
+               "38"
+            ],
+            "type":[
+               "article"
+            ],
+            "ti":[
+               "Benign childhood epilepsy with centrotemporal spikes and electroencephalography trait are not linked to EBN1 and EBN2 of benign neonatal familial convulsions."
+            ],
+            "au":[
+               "Neubauer BA",
+               "Moises HW",
+               "Lässker U",
+               "Waltz S",
+               "Diebold U",
+               "Stephani U"
+            ],
+            "ip":[
+               "7"
+            ],
+            "pg":[
+               "782-7"
+            ],
+            "cp":[
+               "UNITED STATES"
+            ],
+            "ta":[
+               "Epilepsia",
+               "Epilepsia"
+            ],
+            "la":[
+               "en"
+            ],
+            "pt":[
+               "^d29635"
+            ],
+            "mh":[
+               "^d19122^s22033",
+               "^d19110^s22033",
+               "^d4641",
+               "^d32946^s22016",
+               "^d32946^s22033",
+               "^d13024^s22016",
+               "^d13024^s22033",
+               "^d14080^s22032",
+               "^d29315",
+               "^d29362",
+               "^d31669",
+               "^d2694",
+               "^d2715",
+               "^d2923",
+               "^d30325^s22016",
+               "^d30325^s22033",
+               "^d30325^s22032",
+               "^d32946^s22032",
+               "^d23905",
+               "^d21030",
+               "^d8215",
+               "^d24411",
+               "^d5974",
+               "^d21034",
+               "^d7399",
+               "^d22226",
+               "^d8302",
+               "^d21044",
+               "^d10568",
+               "^d13024^s22032"
+            ],
+            "ab":[
+               "PURPOSE: The electroencephalographic hallmark of benign childhood epilepsy with centrotemporal spikes (BECTS, or rolandic epilepsy) are characteristically shaped centrotemporal spikes and sharp waves (CTS). This EEG trait, but not BECTS itself, has been reported to follow an autosomal dominant mode of inheritance with incomplete penetrance and age dependence. CTS therefore represents a neurobiologic marker for the increased risk of developing BECTS. Benign neonatal familial convulsions (BNFC) like BECTS is an idiopathic age-dependent epilepsy with a benign course. Observations of benign neonatal seizures and BECTS in the same individual are well documented. Neonatal seizures with benign course were found in increased numbers in a series of CTS carriers. Two genetic loci, EBN1 and EBN2, have been mapped in families with BNFC, making these two loci strong candidates for the CTS trait underlying BECTS. The aim of this study was to determine whether these two epilepsy syndromes are allelic disorders. METHODS: Linkage analysis was performed in 12 families with probands with BECTS and one or more relatives with CTS in the EEG with or without BECTS by using polymorphic DNA markers. RESULTS: Assuming an autosomal mode of inheritance with penetrances of 0.9 and 0.45, respectively, both loci were consistently excluded. CONCLUSIONS: The CTS trait and EBN1 and EBN2 segregate independently. BECTS and BNFC therefore appear to be genetically distinct entities. Benign neonatal seizures may be a underrecognized symptom of the CTS trait itself."
+            ],
+            "fo":[
+               "Epilepsia;38(7): 782-7, 1997 Jul. "
+            ],
+            "score":62.979446
+         },
+         {
+            "id":"mdl-20972251",
+            "db":"MEDLINE",
+            "bvs":"regional",
+            "da":"201100",
+            "order_sjr":1.1722012,
+            "entry_date":"20101217",
+            "weight":50.172,
+            "afiliacao_autor":[
+               "Conlin LK; Department of Pathology and Laboratory Medicine, The Children's Hospital of Philadelphia, The University of Pennsylvania School of Medicine, 19104, USA."
+            ],
+            "vi":[
+               "48"
+            ],
+            "type":[
+               "article"
+            ],
+            "ti":[
+               "Molecular analysis of ring chromosome 20 syndrome reveals two distinct groups of patients."
+            ],
+            "au":[
+               "Conlin LK",
+               "Kramer W",
+               "Hutchinson AL",
+               "Li X",
+               "Riethman H",
+               "Hakonarson H",
+               "Mulley JC",
+               "Scheffer IE",
+               "Berkovic SF",
+               "Hosain SA",
+               "Spinner NB"
+            ],
+            "ip":[
+               "1"
+            ],
+            "pg":[
+               "1-9"
+            ],
+            "cp":[
+               "England"
+            ],
+            "ta":[
+               "J Med Genet"
+            ],
+            "la":[
+               "en"
+            ],
+            "pt":[
+               "^d29635",
+               "^d21067"
+            ],
+            "mh":[
+               "^d19122^s22033",
+               "^d12715",
+               "^d31669",
+               "^d2512",
+               "^d2920",
+               "^d2921",
+               "^d21034",
+               "^d30684",
+               "^d34583^s22033",
+               "^d13024^s22080",
+               "^d13024^s22033",
+               "^d13024^s22053",
+               "^d13957"
+            ],
+            "ab":[
+               "BACKGROUND: The ring chromosome 20 syndrome (R20) is a rare genetic disorder associated with a refractory electroclinical epilepsy syndrome and variably expressed comorbidities of intellectual disability and dysmorphism. METHODS: To understand the structure and composition of the ring chromosome 20 (r(20)) in this patient cohort, blood specimens from 28 affected individuals were analysed by cytogenetic, fluorescence in situ hybridisation, and/or high resolution whole genome single nucleotide polymorphism array analysis. RESULTS: These studies revealed two distinct groups of patients. Group 1 (N=21) was mosaic for the r(20) and a normal cell line with no detectable deletions or duplications of chromosome 20 in either cell line. The mosaic nature of these rings suggests a postzygotic origin with formation of the ring by fusion of the telomeric regions with no apparent loss of subtelomeric or telomeric DNA. Group 2 (N=7) had non-mosaic ring chromosomes with a deletion at one or both ends of the chromosome, near the ring fusion point. The non-mosaic nature of these rings is consistent with a meiotic origin. The age of onset of seizures was significantly lower in the non-mosaic patients (group 2, median age of onset 2.1&emsp14;years) than in the mosaic patients (group 1, median age of onset 6.0 years). Patients from group 2 had more extensive comorbidities. CONCLUSIONS: These studies demonstrate that r(20) is molecularly heterogeneous and formed by two distinct mechanisms, which, in turn, produce different phenotypic spectrums."
+            ],
+            "fo":[
+               "J Med Genet;48(1): 1-9, 2011 Jan. "
+            ],
+            "score":61.196537
+         },
+         {
+            "id":"mdl-10226745",
+            "db":"MEDLINE",
+            "bvs":"regional",
+            "da":"199907",
+            "entry_date":"19990708",
+            "weight":27.0,
+            "afiliacao_autor":[
+               "Leppert M; University of Utah, Department of Human Genetics, Salt Lake City, USA. mleppert@genetics.utah.edu"
+            ],
+            "vi":[
+               "12"
+            ],
+            "type":[
+               "article"
+            ],
+            "ti":[
+               "Benign familial neonatal epilepsy with mutations in two potassium channel genes."
+            ],
+            "au":[
+               "Leppert M",
+               "Singh N"
+            ],
+            "ip":[
+               "2"
+            ],
+            "pg":[
+               "143-7"
+            ],
+            "cp":[
+               "ENGLAND"
+            ],
+            "ta":[
+               "Curr Opin Neurol",
+               "Current opinion in neurology"
+            ],
+            "la":[
+               "en"
+            ],
+            "pt":[
+               "^d29635",
+               "^d29611"
+            ],
+            "mh":[
+               "^d23905",
+               "^d9346^s22031",
+               "^d23800^s22033",
+               "^d13024^s22033",
+               "^d13419^s22033",
+               "^d19122^s22033",
+               "^d19110^s22033",
+               "^d3026",
+               "^d24666^s22031",
+               "^d32225",
+               "^d21034",
+               "^d22226",
+               "^d8734^s22033",
+               "^d9626^s22033",
+               "^d10833",
+               "^d23800^s22007",
+               "^d23800^s22031",
+               "^d13024^s22032",
+               "^d13419^s22032"
+            ],
+            "ab":[
+               "The significant progress made over the past year in understanding the basis for a form of neonatal seizures can be attributed to the successful positional cloning of two new voltage-gated potassium channel genes. Expression studies have increased our understanding of the biology of these channels and their role in epilepsy."
+            ],
+            "fo":[
+               "Curr Opin Neurol;12(2): 143-7, 1999 Apr. "
+            ],
+            "score":54.973328
+         },
+         {
+            "id":"mdl-14975173",
+            "db":"MEDLINE",
+            "bvs":"regional",
+            "da":"200300",
+            "order_sjr":0.3542003,
+            "entry_date":"20040220",
+            "weight":51.354,
+            "afiliacao_autor":[
+               "Saccone NL; Department of Genetics, Washington University School of Medicine, St, Louis, Missouri, USA. nlims@vodka.wustl.edu"
+            ],
+            "vi":[
+               "4 Suppl 1"
+            ],
+            "ur":[
+               "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1866443/?tool=pubmed"
+            ],
+            "type":[
+               "article"
+            ],
+            "ti":[
+               "Genetic analysis of maximum cigarette-use phenotypes."
+            ],
+            "au":[
+               "Saccone NL",
+               "Neuman RJ",
+               "Saccone SF",
+               "Rice JP"
+            ],
+            "pg":[
+               "S105"
+            ],
+            "cp":[
+               "England"
+            ],
+            "ta":[
+               "BMC Genet",
+               "BMC genetics (Online)",
+               "BioMed Central genetics (Online)",
+               "Genetics"
+            ],
+            "la":[
+               "en"
+            ],
+            "pt":[
+               "^d22780",
+               "^d29635",
+               "^d21069"
+            ],
+            "mh":[
+               "^d23925^s22080",
+               "^d23925^s22033",
+               "^d37616",
+               "^d2923^s22083",
+               "^d19117^s22033",
+               "^d19119^s22033",
+               "^d19122^s22033",
+               "^d19108^s22033",
+               "^d19110^s22033",
+               "^d28621",
+               "^d21030",
+               "^d8215^s22033",
+               "^d21034",
+               "^d24769",
+               "^d28630",
+               "^d21044",
+               "^d10833",
+               "^d37618"
+            ],
+            "ab":[
+               "BACKGROUND: Using the Framingham Heart Study data set provided for Genetic Analysis Workshop 13, we defined the cigarette-use phenotype M for smokers to be the maximum number of cigarettes-per-day (MAXCIG) reported over the longitudinal course of the study. Adjustments were made for the significant covariates of gender and year of birth, and sib-pair based linkage analysis was performed. RESULTS: The primary analyses, in which individuals with MAXCIG = 0 were considered to have missing phenotype, resulted in modest linkage evidence, with LOD scores over 1 on chromosomes 5, 9, 13, 14, and 22. CONCLUSIONS: While the results reported here do not indicate definitive evidence for linkage to specific chromosomal regions, future studies may find it useful to include direct assessments of maximum and quantitative cigarette use. In defining and analyzing quantitative or \"maximum use\" phenotypes, the choice of how to handle individuals with MAXCIG = 0, or alternatively, individuals who are substance-naive, is a crucial one for genetic studies of nicotine and other substance use. In this study, the linkage results vary greatly depending on whether or not these \"unexposed\" individuals are included in the analyses."
+            ],
+            "fo":[
+               "BMC Genet;4 Suppl 1: S105, 2003. "
+            ],
+            "score":50.493786
+         },
+         {
+            "id":"mdl-18186929",
+            "db":"MEDLINE",
+            "bvs":"regional",
+            "da":"200802",
+            "order_sjr":0.7952008,
+            "entry_date":"20080215",
+            "weight":56.795,
+            "vi":[
+               "7"
+            ],
+            "ur":[
+               "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2244643/?tool=pubmed"
+            ],
+            "type":[
+               "article"
+            ],
+            "ti":[
+               "Genetic interactions: the missing links for a better understanding of cancer susceptibility, progression and treatment."
+            ],
+            "au":[
+               "Maxwell CA",
+               "Moreno V",
+               "Solé X",
+               "Gómez L",
+               "Hernández P",
+               "Urruticoechea A",
+               "Pujana MA"
+            ],
+            "pg":[
+               "4"
+            ],
+            "cp":[
+               "England"
+            ],
+            "ta":[
+               "Mol Cancer",
+               "Molecular cancer"
+            ],
+            "la":[
+               "en"
+            ],
+            "pt":[
+               "^d29633",
+               "^d21067"
+            ],
+            "mh":[
+               "^d1968^s22033",
+               "^d52496",
+               "^d33779",
+               "^d24691^s22033",
+               "^d19122^s22033",
+               "^d19110^s22033",
+               "^d32285",
+               "^d34543",
+               "^d21034",
+               "^d36307"
+            ],
+            "ab":[
+               "It is increasingly clear that complex networks of relationships between genes and/or proteins govern neoplastic processes. Our understanding of these networks is expanded by the use of functional genomic and proteomic approaches in addition to computational modeling. Concurrently, whole-genome association scans and mutational screens of cancer genomes identify novel cancer genes. Together, these analyses have vastly increased our knowledge of cancer, in terms of both \"part lists\" and their functional associations. However, genetic interactions have hitherto only been studied in depth in model organisms and remain largely unknown for human systems. Here, we discuss the importance and potential benefits of identifying genetic interactions at the human genome level for creating a better understanding of cancer susceptibility and progression and developing novel effective anticancer therapies. We examine gene expression profiles in the presence and absence of co-amplification of the 8q24 and 20q13 chromosomal regions in breast tumors to illustrate the molecular consequences and complexity of genetic interactions and their role in tumorigenesis. Finally, we highlight current strategies for targeting tumor dependencies and outline potential matrix screening designs for uncovering molecular vulnerabilities in cancer cells."
+            ],
+            "fo":[
+               "Mol Cancer;7: 4, 2008. "
+            ],
+            "score":48.44418
+         },
+         {
+            "id":"mdl-22425707",
+            "db":"MEDLINE",
+            "bvs":"regional",
+            "da":"201204",
+            "order_sjr":0.4512012,
+            "entry_date":"20120423",
+            "weight":50.451,
+            "afiliacao_autor":[
+               "Abbasi AA; National Center for Bioinformatics, Program of Comparative and Evolutionary Genomics, Faculty of Biological Sciences, Quaid-i-Azam University, Islamabad 45320, Pakistan. abbasiam@qau.edu.pk"
+            ],
+            "vi":[
+               "63"
+            ],
+            "type":[
+               "article"
+            ],
+            "ti":[
+               "Phylogenetic history of paralogous gene quartets on human chromosomes 1, 2, 8 and 20 provides no evidence in favor of the vertebrate octoploidy hypothesis."
+            ],
+            "au":[
+               "Abbasi AA",
+               "Hanif H"
+            ],
+            "ip":[
+               "3"
+            ],
+            "pg":[
+               "922-7"
+            ],
+            "cp":[
+               "United States"
+            ],
+            "ta":[
+               "Mol Phylogenet Evol"
+            ],
+            "la":[
+               "en"
+            ],
+            "pt":[
+               "^d29635",
+               "^d21067"
+            ],
+            "mh":[
+               "^d19103^s22033",
+               "^d19122^s22033",
+               "^d19104^s22033",
+               "^d19110^s22033",
+               "^d9147",
+               "^d11002",
+               "^d32752",
+               "^d33897",
+               "^d21034",
+               "^d11432",
+               "^d30522"
+            ],
+            "ab":[
+               "Fourfold paralogy regions in the human genome have been considered historical remnants of whole-genome duplication events predicted to have occurred early in vertebrate evolution. Taking advantage of the well-annotated and high-quality human genomic sequence map as well as the ever-increasing accessibility of large-scale genomic sequence data from a diverse range of animal species, we investigated the prediction that the ancestral vertebrate genome was shaped by two rapid rounds of whole-genome duplication within a period of 10 million years. Both the map self-comparison approach and a phylogenetic analysis revealed that gene families identified as tetralogous on human chromosomes 1/2/8/20 arose by small-scale duplication events that occurred at widely different time points in animal evolution. Furthermore, the data discount the likelihood that tree topologies of the form ((A,B)(C,D)) are best explained by the octoploidy hypothesis. We instead propose that such symmetrical tree patterns are also consistent with local duplications and rearrangement events."
+            ],
+            "fo":[
+               "Mol Phylogenet Evol;63(3): 922-7, 2012 Jun. "
+            ],
+            "score":48.305664
+         },
+         {
+            "id":"mdl-7980108",
+            "db":"MEDLINE",
+            "bvs":"regional",
+            "da":"199412",
+            "order_sjr":0.6881994,
+            "entry_date":"19941201",
+            "weight":32.688,
+            "afiliacao_autor":[
+               "Berkovic SF; Department of Neurology, Austin Hospital, Heidelberg (Melbourne), Australia."
+            ],
+            "vi":[
+               "51"
+            ],
+            "type":[
+               "article"
+            ],
+            "ti":[
+               "Phenotypic expression of benign familial neonatal convulsions linked to chromosome 20."
+            ],
+            "au":[
+               "Berkovic SF",
+               "Kennerson ML",
+               "Howell RA",
+               "Scheffer IE",
+               "Hwang PA",
+               "Nicholson GA"
+            ],
+            "ip":[
+               "11"
+            ],
+            "pg":[
+               "1125-8"
+            ],
+            "cp":[
+               "UNITED STATES"
+            ],
+            "ta":[
+               "Arch Neurol",
+               "Archives of neurology (1960)"
+            ],
+            "la":[
+               "en"
+            ],
+            "pt":[
+               "^d29635",
+               "^d21067"
+            ],
+            "mh":[
+               "^d19122",
+               "^d13024^s22033",
+               "^d4261",
+               "^d21030",
+               "^d8215",
+               "^d24411",
+               "^d21034",
+               "^d22226",
+               "^d21044",
+               "^d10568",
+               "^d10833",
+               "^d3315^s22033"
+            ],
+            "ab":[
+               "OBJECTIVES: To determine whether the syndrome of benign familial neonatal convulsions in a large family was linked to markers on chromosome 20q and to study the seizure patterns in affected individuals. DESIGN: A clinical and molecular biologic study of a single large family in which the probands were identical twins with benign familial neonatal convulsions. PATIENTS: Thirteen living affected family members and 27 living unaffected family members were evaluated. RESULTS: Multipoint linkage analysis with use of the chromosome 20q markers CMM6 and RMR6 gave a maximum lod score of 3.13 at theta = 0.063, indicating linkage in this family. Of the 13 affected members, 10 had known neonatal seizures. Four subjects had febrile seizures, of whom only two had known neonatal seizures. Two members had afebrile seizures later, one of whom had not previously suffered neonatal or febrile seizures. CONCLUSION: The phenotypic heterogeneity in this family, with an epilepsy syndrome determined by a single gene, was striking. This suggests that molecular genetic approaches to the common forms of idiopathic epilepsy, involving patients with clinically similar phenotypes from unrelated families, may be inappropriate."
+            ],
+            "fo":[
+               "Arch Neurol;51(11): 1125-8, 1994 Nov. "
+            ],
+            "score":48.232304
+         }
+      ]
+   }
+}
