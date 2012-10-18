@@ -44,8 +44,7 @@
         </ul>
         <p>Example:</p>
         <ul>
-            <li>localhost:8080/farrel/MoreLikeThat?content=Chilren Health&amp;
-                fieldsName=title,abstract</li>
+            <li>localhost:8080/&lt;context&gt;/MoreLikeThat?content=Children Health&amp;fieldsName=title,abstract</li>
         </ul>
     </body>
 </html>

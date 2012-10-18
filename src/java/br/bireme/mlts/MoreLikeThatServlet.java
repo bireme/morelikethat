@@ -128,7 +128,7 @@ public class MoreLikeThatServlet extends HttpServlet {
     protected void processRequest(final HttpServletRequest request, 
                                      final HttpServletResponse response)
                                           throws ServletException, IOException {
-        response.setContentType("application/json");
+        response.setContentType("application/json; charset=UTF-8");
         PrintWriter out = response.getWriter();
         
         try {
@@ -157,6 +157,9 @@ public class MoreLikeThatServlet extends HttpServlet {
                 final JSONArray list0 = new JSONArray();
                 final JSONArray list1 = new JSONArray();
                 final JSONArray list2 = new JSONArray();
+                final Object obj = fobj.get("id");
+                final String _id = (obj == null) 
+                             ? Integer.toString(first.hit.doc) : obj.toString();
                 
                 auxjobj2.put("q", content);
                 for (String fld : fldsName) {
@@ -171,7 +174,7 @@ public class MoreLikeThatServlet extends HttpServlet {
                 auxjobj3.put("maxScore", first.hit.score);
                 auxjobj3.put("docs", list1);
                 fobj.put("score", first.hit.score);
-                fobj.put("id", first.hit.doc);
+                fobj.put("id", _id);
                 list1.add(fobj);                
                 jobj.put("match", auxjobj3);
                 
@@ -182,8 +185,11 @@ public class MoreLikeThatServlet extends HttpServlet {
                 
                 for (MoreLikeThat.DocJ doc : docs) {            
                     final JSONObject cobj = doc.doc;
+                    final Object obj2 = cobj.get("id");
+                    final String _id2 = (obj2 == null) 
+                              ? Integer.toString(doc.hit.doc) : obj2.toString();
                     cobj.put("score", doc.hit.score);
-                    cobj.put("id", doc.hit.doc);
+                    cobj.put("id", _id2);
                     list2.add(cobj);
                 }
                 jobj.put("response", auxjobj4);
@@ -207,7 +213,7 @@ public class MoreLikeThatServlet extends HttpServlet {
     protected void processRequest2(final HttpServletRequest request, 
                                      final HttpServletResponse response)
                                           throws ServletException, IOException {
-        response.setContentType("application/json");
+        response.setContentType("application/json; charset=UTF-8");
         PrintWriter out = response.getWriter();
         
         try {
@@ -235,9 +241,12 @@ public class MoreLikeThatServlet extends HttpServlet {
             } else {
                 out.println("{ [");
             }
-            for (MoreLikeThat.DocX doc : docs) {            
+            for (MoreLikeThat.DocX doc : docs) { 
+                final List<String> _ids = doc.doc.get("id");
+                final String _id = ((_ids == null) || (_ids.isEmpty()) 
+                                     ? Integer.toString(doc.id) : _ids.get(0));
                 out.print("    {\"id\" : ");
-                out.print(Integer.toString(doc.id));
+                out.print(_id);
                 out.print(", \"score\" : ");
                 out.print(Float.toString(doc.qscore));
                 if (getDocContent) {
